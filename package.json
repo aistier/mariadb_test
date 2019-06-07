@@ -1,0 +1,22 @@
+{
+  "name": "mariadb_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mariadb": "^2.0.3",
+    "mongodb": "^3.2.5",
+    "mongoose": "^4.13.17",
+    "mongoose-auto-increment": "^5.0.1",
+    "path": "^0.12.7"
+  }
+}
